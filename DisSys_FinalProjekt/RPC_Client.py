@@ -1,8 +1,15 @@
 import rpyc
 import random
 
-calc = rpyc.connect("192.168.50.249", 18861)
-
+tryagain = True
+while(tryagain == True):
+  try:
+    calc = rpyc.connect("134.208.236.91", 18861)
+    print('connected')
+    tryagain = False
+  except:
+    tryagain = True
+# calc = rpyc.connect("134.208.236.91", 18861)
 functs = [ 'add', 'sub', 'mul', 'div', 'pow', 'sqr', 'log', 'sin', 'cos']
 
 print('client making random request!')
