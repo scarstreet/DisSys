@@ -1,0 +1,8 @@
+Question:
+  Try out the Python multicast example. Correct any
+  problem.
+
+Answer:
+  The only problem is when the sender and receiver doesn't decode
+  when they received the message. Other than that, it seems okay.
+

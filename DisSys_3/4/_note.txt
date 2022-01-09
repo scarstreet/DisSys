@@ -1,0 +1,10 @@
+Question:
+  Using Python multicast, write a client that sends out 10
+  messages to a multicast group and another client that
+  receives the messages. Give a few tests to see if all
+  messages were correctly received.
+
+Answer:
+  Sender will send 4 test cases, each sending words of a verse
+  from the song "Never Gonna Give You Up". It seems that the receiver
+  received all the messages in order.

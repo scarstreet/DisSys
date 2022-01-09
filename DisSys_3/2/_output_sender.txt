@@ -1,0 +1,6 @@
+sending "very important data"
+waiting to receive
+received "ack" from ('134.208.237.212', 10000)
+waiting to receive
+timed out, no more responses
+closing socket

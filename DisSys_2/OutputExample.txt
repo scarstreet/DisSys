@@ -1,0 +1,183 @@
+[SERVER THREAD] -Socket is listening..
+
+[CLIENT read THREAD 1] - Waiting for connection response
+[CLIENT read THREAD 0] - Waiting for connection response
+
+[CLIENT read THREAD 2] - Waiting for connection response
+[CLIENT read THREAD 3] - Waiting for connection response
+
+
+[CLIENT read THREAD 1] - READ request - read < 9
+
+[SERVER THREAD]  - Connected to: 134.208.252.111:57232
+[CLIENT write THREAD 0] - Waiting for connection response
+
+[CLIENT read THREAD 3] - READ request - read > 5
+[CLIENT read THREAD 0] - READ request - read < 7
+[CLIENT write THREAD 1] - Waiting for connection response
+[CLIENT read THREAD 2] - READ request - read % 4
+
+
+
+
+
+
+[SERVER THREAD] -Server is working...
+[SERVER THREAD]  - Thread Number: 1
+[CLIENT write THREAD 0] - WRITE request - write 23 8 12 29 4 27 16 26 15 11
+
+[CLIENT write THREAD 1] - WRITE request - write 1 24 25 17 25 8 21 9 5 17  
+
+
+
+[SERVER THREAD]  - Connected to: 134.208.252.111:57234
+
+[SERVER THREAD] -Server is working...
+[SERVER THREAD]  - Thread Number: 2
+
+
+[CLIENT read THREAD 1] - RESponse received - 0 1 2 3 4 5 6 7 8
+[SERVER THREAD]  - Connected to: 134.208.252.111:57233        
+
+
+[SERVER THREAD] -Server is working...
+[SERVER THREAD]  - Thread Number: 3
+
+
+[SERVER THREAD]  - Connected to: 134.208.252.111:57235
+
+[SERVER THREAD] -Server is working...
+[SERVER THREAD]  - Thread Number: 4
+[CLIENT read THREAD 2] - RESponse received - 0 4 8
+
+[CLIENT read THREAD 0] - RESponse received - 0 1 2 3 4 5 6
+
+
+
+[SERVER THREAD]  - Connected to: 134.208.252.111:57237
+
+[SERVER THREAD]  - Thread Number: 5
+
+[CLIENT read THREAD 3] - RESponse received - 6 7 8 9
+[SERVER THREAD] -Server is working...
+[SERVER THREAD]  - Connected to: 134.208.252.111:57236
+
+
+
+[SERVER THREAD] -Server is working...
+[SERVER THREAD]  - Thread Number: 6
+
+
+[CLIENT write THREAD 0] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 23 8 12 29 4 27 16 26 15 11
+
+[CLIENT write THREAD 1] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 1 24 25 17 25 8 21 9 5 17
+
+[CLIENT read THREAD 1] - READ request - read > 9
+
+[CLIENT read THREAD 0] - READ request - read > 5
+[CLIENT read THREAD 1] - RESponse received - 24 25 17 25 21 17
+
+
+[CLIENT read THREAD 2] - READ request - read % 7
+[CLIENT read THREAD 3] - READ request - read > 7
+
+
+[CLIENT read THREAD 0] - RESponse received - 24 25 17 25 8 21 9 17
+
+[CLIENT write THREAD 0] - WRITE request - write 3 28 15 26 17 20 22 14 28 25
+[CLIENT write THREAD 1] - WRITE request - write 1 5 2 5 19 7 18 6 28 12
+
+[CLIENT read THREAD 3] - RESponse received - 24 25 17 25 8 21 9 17
+
+
+[CLIENT read THREAD 2] - RESponse received - 21
+
+[CLIENT write THREAD 0] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 3 28 15 26 17 20 22 14 28 25
+
+[CLIENT write THREAD 1] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 1 5 2 5 19 7 18 6 28 12
+
+[CLIENT read THREAD 1] - READ request - read < 2
+
+[CLIENT read THREAD 1] - RESponse received - 1
+
+[CLIENT read THREAD 0] - READ request - read < 2
+
+[CLIENT read THREAD 0] - RESponse received - 1
+
+[CLIENT read THREAD 3] - READ request - read > 4
+
+[CLIENT read THREAD 2] - READ request - read % 9
+[CLIENT read THREAD 3] - RESponse received - 5 5 19 7 18 6 28 12
+
+
+[CLIENT read THREAD 2] - RESponse received - 18
+
+[CLIENT write THREAD 0] - WRITE request - write 29 25 15 17 1 28 27 1 6 1
+
+[CLIENT write THREAD 1] - WRITE request - write 28 17 0 10 11 11 27 21 1 3
+
+[CLIENT write THREAD 0] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 29 25 15 17 1 28 27 1 6 1
+
+[CLIENT write THREAD 1] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 28 17 0 10 11 11 27 21 1 3
+
+[CLIENT read THREAD 1] - READ request - read % 5
+
+[CLIENT read THREAD 0] - READ request - read % 1
+[CLIENT read THREAD 1] - RESponse received - 0 10
+
+
+[CLIENT read THREAD 0] - RESponse received - 28 17 0 10 11 11 27 21 1 3
+
+[CLIENT read THREAD 3] - READ request - read < 5
+
+[CLIENT read THREAD 2] - READ request - read < 3
+[CLIENT read THREAD 3] - RESponse received - 0 1 3
+
+
+[CLIENT read THREAD 2] - RESponse received - 0 1
+
+[CLIENT write THREAD 0] - WRITE request - write 21 12 25 22 18 15 23 9 8 8
+
+[CLIENT write THREAD 1] - WRITE request - write 0 16 28 27 19 9 25 11 8 14
+
+[CLIENT write THREAD 0] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 21 12 25 22 18 15 23 9 8 8
+
+[CLIENT write THREAD 1] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 0 16 28 27 19 9 25 11 8 14
+
+[CLIENT read THREAD 1] - READ request - read < 8
+
+[CLIENT read THREAD 0] - READ request - read < 6
+
+[CLIENT read THREAD 3] - READ request - read < 1
+[CLIENT read THREAD 1] - RESponse received - 0
+
+[CLIENT read THREAD 2] - READ request - read < 7
+
+
+[CLIENT read THREAD 0] - RESponse received - 0
+
+[CLIENT read THREAD 3] - RESponse received - 0
+
+[CLIENT read THREAD 2] - RESponse received - 0
+
+[CLIENT write THREAD 0] - WRITE request - write 9 12 27 27 27 11 18 0 4 12
+
+[CLIENT write THREAD 1] - WRITE request - write 11 6 6 16 13 20 2 12 23 28
+
+[CLIENT write THREAD 0] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 9 12 27 27 27 11 18 0 4 12
+
+[CLIENT write THREAD 1] - RESponse received - [SERVER THREAD] - UPDATED SERVER - 11 6 6 16 13 20 2 12 23 28
+
+[CLIENT read THREAD 1] - CLOSED
+[SERVER THREAD]  - CLOSED
+
+
+[CLIENT read THREAD 0] - CLOSED
+
+[CLIENT read THREAD 3] - CLOSED
+[CLIENT read THREAD 2] - CLOSED
+
+
+[CLIENT write THREAD 0] - CLOSED
+
+[CLIENT write THREAD 1] - CLOSED

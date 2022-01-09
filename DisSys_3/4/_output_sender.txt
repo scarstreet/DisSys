@@ -1,0 +1,251 @@
+[SENDER] - testing for Case 0 ===========================================================
+
+[SENDER] - sending [Never]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [gonna]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [give]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [you]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [up]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [Never]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [gonna]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [let]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [you]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [down]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+
+[SENDER] - testing for Case 1 ===========================================================
+
+[SENDER] - sending [Never]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [gonna]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [run]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [around]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [and]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [desert]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [y]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [o]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [u]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [~]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+
+[SENDER] - testing for Case 2 ===========================================================
+
+[SENDER] - sending [Never]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [gonna]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [make]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [you]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [cry]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [Never]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [gonna]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [say]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [good]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [bye]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+
+[SENDER] - testing for Case 3 ===========================================================
+
+[SENDER] - sending [Never]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [gonna]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [tell]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [a]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [lie]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [and]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [hurt]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [you]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [~]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+
+[SENDER] - sending [<3]
+[SENDER] - waiting to receive ack
+[SENDER] - received "ack" from ('134.208.237.212', 10000)
+[SENDER] - waiting to receive ack
+[SENDER] - timed out, no more responses
+[SENDER] - closing socket

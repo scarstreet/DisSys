@@ -1,0 +1,20 @@
+Waiting for connection response
+Message to send: hello
+Server message: hello
+Message to send: world
+Server message: world
+Message to send: programmed
+Server message: programmed
+Message to send: to
+Server message: to
+Message to send: work
+Server message: work
+Message to send: but
+Server message: but
+Message to send: not
+Server message: not
+Message to send: to
+Server message: to
+Message to send: feel~
+Server message: feel~
+Message to send: END 

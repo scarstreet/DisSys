@@ -1,0 +1,161 @@
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [Never]
+[RECEIVER] - sending ack to SERVER     
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [gonna]
+[RECEIVER] - sending ack to SERVER     
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [give]
+[RECEIVER] - sending ack to SERVER     
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [you]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [up]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [Never]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [gonna]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [let]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [you]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [down]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [Never]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [gonna]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [run]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [around]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [and]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [desert]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [y]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [o]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [u]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [~]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [Never]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [gonna]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [make]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [you]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [cry]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [Never]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [gonna]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [say]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [good]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [bye]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [Never]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [gonna]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [tell]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [a]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [lie]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [and]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [hurt]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [you]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [~]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message
+[RECEIVER] - received [<3]
+[RECEIVER] - sending ack to SERVER
+
+[RECEIVER] - waiting to receive message

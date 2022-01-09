@@ -1,0 +1,9 @@
+Question:
+  Write simple TCP/UDP calculate servers that accept
+  simple arithmetic computing requests in prefix form such
+  as “+ 4 5” and send back the result. Write
+  corresponding clients to test them.
+
+Answer:
+  Ok. run main file to run code. There are 3 clients and 1 server.
+  Each client will send 3 requests and later print their answers.

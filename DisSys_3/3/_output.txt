@@ -1,0 +1,103 @@
+[CLIENT 1] - Waiting for connection response
+[CLIENT 2] - Waiting for connection response
+
+[SERVER] - listening..
+[CLIENT 3] - Waiting for connection response
+
+
+
+[CLIENT 3] - Made request [/ 84 2]
+[SERVER] - Connected to: 127.0.0.1:63351
+[CLIENT 2] - Made request [+ 87 18]
+
+
+
+[SERVER] - working...
+
+[SERVER] - Connected to: 127.0.0.1:63352
+[SERVER] - received request [+ 87 18] from [('127.0.0.1', 63351)]
+
+
+[CLIENT 2] - Got answer [105] for request [+ 87 18]
+[SERVER] - sent answer [105] to [('127.0.0.1', 63351)]
+
+
+[SERVER] - working...
+[SERVER] - Waiting for next request...
+[CLIENT 2] - Made request [+ 72 6]
+
+
+
+[SERVER] - received request [/ 84 2] from [('127.0.0.1', 63352)]
+[SERVER] - sent answer [78] to [('127.0.0.1', 63351)]
+[CLIENT 2] - Got answer [78] for request [+ 72 6]
+
+
+
+[CLIENT 3] - Got answer [42.0] for request [/ 84 2]
+[SERVER] - sent answer [42.0] to [('127.0.0.1', 63352)]
+[SERVER] - Waiting for next request...
+[CLIENT 2] - Made request [* 34 10]
+
+
+
+
+[CLIENT 3] - Made request [* 62 14]
+[SERVER] - Waiting for next request...
+
+[CLIENT 2] - Got answer [340] for request [* 34 10]
+
+[SERVER] - sent answer [340] to [('127.0.0.1', 63351)]
+
+
+[CLIENT 3] - Got answer [868] for request [* 62 14]
+[SERVER] - sent answer [868] to [('127.0.0.1', 63352)]
+[SERVER] - Waiting for next request...
+
+
+
+[CLIENT 3] - Made request [+ 7 5]
+[SERVER] - Waiting for next request...
+[SERVER] - Service for [('127.0.0.1', 63351)] closed
+
+
+
+[CLIENT 3] - Got answer [12] for request [+ 7 5]
+[SERVER] - sent answer [12] to [('127.0.0.1', 63352)]
+
+
+[SERVER] - Waiting for next request...
+
+[SERVER] - Service for [('127.0.0.1', 63352)] closed
+
+[CLIENT 1] - Made request [% 57 10]
+[SERVER] - Connected to: 127.0.0.1:63350
+
+
+[SERVER] - working...
+
+[SERVER] - received request [% 57 10] from [('127.0.0.1', 63350)]
+
+[CLIENT 1] - Got answer [7] for request [% 57 10]
+[SERVER] - sent answer [7] to [('127.0.0.1', 63350)]
+
+
+[CLIENT 1] - Made request [+ 62 14]
+[SERVER] - Waiting for next request...
+
+
+[CLIENT 1] - Got answer [76] for request [+ 62 14]
+[SERVER] - sent answer [76] to [('127.0.0.1', 63350)]
+
+
+[SERVER] - Waiting for next request...
+[CLIENT 1] - Made request [% 33 16]
+
+
+[SERVER] - sent answer [1] to [('127.0.0.1', 63350)]
+[CLIENT 1] - Got answer [1] for request [% 33 16]
+
+
+[SERVER] - Waiting for next request...
+
+[SERVER] - Service for [('127.0.0.1', 63350)] closed
