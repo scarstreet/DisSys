@@ -1,0 +1,1 @@
+{"users": [{"role": "OWNER", "name": "Astrid"}, {"role": "USER", "name": "asdsa"}, {"role": "USER", "name": "A"}], "messages": [{"receiver": "A", "sender": "Astrid", "message": "hello A!!", "id": "104ab4", "date": "01/14/2022, 23:31:37"}, {"receiver": "A", "sender": "A", "message": "I'm saying hi to myself haha", "id": "104ab4", "date": "01/14/2022, 23:35:06"}]}
