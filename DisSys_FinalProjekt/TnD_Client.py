@@ -414,6 +414,7 @@ def explore():
                   print("Selected option unavailable.")
               print("No.. you're still too weak. We will retreat.")
               GAME.root.endCombat()
+              input()
           else:
             print(f"Now is {combat.whichPlayer}'s turn.")
             whoseTurn = combat.whichPlayer
