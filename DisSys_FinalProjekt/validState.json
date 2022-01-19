@@ -1,0 +1,191 @@
+{
+  "onlinePlayers": 0,
+  "readyToPlay": 2,
+  "onlinePlayerList": [],
+  "readyToPlayList": [],
+  "allPlayers": {
+    "name": "password",
+    "a": "a",
+    "b": "b",
+    "c": "c",
+    "d": "d",
+    "e": "e"
+  },
+  "allPlayerDB": {
+    "name": {
+      "role": "mage",
+      "skills": [],
+      "baseStatus": {
+        "HP": 15,
+        "MP": 15,
+        "ATK": 1,
+        "DEF": 1,
+        "AGI": 1,
+        "LUK": 1,
+        "LVL": 1,
+        "EXP": 0,
+        "EXP_CAP": 20
+      },
+      "status": { "HP": 15, "MP": 15, "ATK": 1, "DEF": 1, "AGI": 1, "LUK": 1 },
+      "equip": { "weapon": 0, "armor": 0, "artifact": 0 },
+      "inventory": {
+        "I": [],
+        "ART": [],
+        "ARM": [],
+        "W": [[3, 1]],
+        "C": [
+          [1, 1],
+          [2, 4]
+        ],
+        "gold": 0
+      }
+    },
+    "a": {
+      "role": "warrior",
+      "skills": [],
+      "baseStatus": {
+        "HP": 15,
+        "MP": 15,
+        "ATK": 11,
+        "DEF": 1,
+        "AGI": 1,
+        "LUK": 1,
+        "LVL": 1,
+        "EXP": 0,
+        "EXP_CAP": 20
+      },
+      "status": { "HP": 15, "MP": 15, "ATK": 11, "DEF": 1, "AGI": 1, "LUK": 1 },
+      "equip": { "weapon": 0, "armor": 0, "artifact": 0 },
+      "inventory": {
+        "I": [],
+        "ART": [],
+        "ARM": [],
+        "W": [],
+        "C": [],
+        "gold": 0
+      }
+    },
+    "b": {
+      "role": "mage",
+      "skills": [],
+      "baseStatus": {
+        "HP": 15,
+        "MP": 20,
+        "ATK": 2,
+        "DEF": 1,
+        "AGI": 4,
+        "LUK": 2,
+        "LVL": 1,
+        "EXP": 0,
+        "EXP_CAP": 20
+      },
+      "status": { "HP": 15, "MP": 20, "ATK": 2, "DEF": 1, "AGI": 4, "LUK": 2 },
+      "equip": { "weapon": 0, "armor": 0, "artifact": 0 },
+      "inventory": {
+        "I": [],
+        "ART": [],
+        "ARM": [],
+        "W": [],
+        "C": [],
+        "gold": 0
+      }
+    },
+    "c": {
+      "role": "rogue",
+      "skills": [],
+      "baseStatus": {
+        "HP": 16,
+        "MP": 11,
+        "ATK": 4,
+        "DEF": 1,
+        "AGI": 7,
+        "LUK": 5,
+        "LVL": 1,
+        "EXP": 0,
+        "EXP_CAP": 20
+      },
+      "status": { "HP": 16, "MP": 11, "ATK": 4, "DEF": 1, "AGI": 7, "LUK": 5 },
+      "equip": { "weapon": 0, "armor": 0, "artifact": 0 },
+      "inventory": {
+        "I": [],
+        "ART": [],
+        "ARM": [],
+        "W": [],
+        "C": [],
+        "gold": 0
+      }
+    },
+    "d": {
+      "role": "cleric",
+      "skills": [],
+      "baseStatus": {
+        "HP": 15,
+        "MP": 19,
+        "ATK": 1,
+        "DEF": 7,
+        "AGI": 1,
+        "LUK": 1,
+        "LVL": 1,
+        "EXP": 0,
+        "EXP_CAP": 20
+      },
+      "status": { "HP": 15, "MP": 19, "ATK": 1, "DEF": 7, "AGI": 1, "LUK": 1 },
+      "equip": { "weapon": 0, "armor": 0, "artifact": 0 },
+      "inventory": {
+        "I": [],
+        "ART": [],
+        "ARM": [],
+        "W": [],
+        "C": [],
+        "gold": 0
+      }
+    },
+    "e": {
+      "role": "warrior",
+      "skills": [],
+      "baseStatus": {
+        "HP": 15, "MP": 15, "ATK": 13, "DEF": 2, "AGI": 1, "LUK": 1,
+        "LVL": 1,
+        "EXP": 0,
+        "EXP_CAP": 20
+      },
+      "status": { "HP": 15, "MP": 15, "ATK": 13, "DEF": 2, "AGI": 1, "LUK": 1 },
+      "equip": { "weapon": 0, "armor": 0, "artifact": 0 },
+      "inventory": {
+        "I": [],
+        "ART": [],
+        "ARM": [],
+        "W": [],
+        "C": [],
+        "gold": 0
+      }
+    }
+  },
+  "currentLocation": [6, 2],
+  "mapBoundaries": [12, 12],
+  "mapProgress": [0, 0, 0, 0, 0, 0],
+  "movementTurn": "",
+  "isCombat": false,
+  "isTrading": false,
+  "mapCleared": [false, false, false, false, false, false],
+  "combat": {
+    "turn": "",
+    "turnCounter": 0,
+    "whichPlayer": "",
+    "enemies": [
+      {
+        "isAlive": true,
+        "effects": [
+          { "enable": true, "target": 0, "effect": -2, "turn": 0, "stat": 0 }
+        ],
+        "status": {}
+      }
+    ],
+    "whichEnemy": 0,
+    "result": "",
+    "expDrop": 0,
+    "goldDrop": 0,
+    "itemDrop": {},
+    "combatLog": ""
+  }
+}

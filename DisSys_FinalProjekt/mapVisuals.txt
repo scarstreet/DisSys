@@ -1,0 +1,30 @@
+           |                       |           
+        ___| Zombified Village     |   Mount   
+       | D |                       |           
+       |___|  %11%      ___        | Grimfate  
+       |               |   |       |           
+       |            ___|   |_______|  %55%     
+       |           |           | H |           
+  %00% |___        |           |___|___     ___
+           |       |           |       |   |   
+Begining's |    ___|  %33%     |       |   |   
+           |   |               |       |   |   
+Plains  ___|___| Dusted Caverns|___    |___|   
+       |       |                   |           
+_______|       |_______            |           
+                       |           |           
+  Rotting Forest    ___|           |           
+                   | P |           |           
+  %22%             |___|___________|  %44%     
+                               |               
+                            ___| Warlock's Bog 
+                           |                   
+                           |                   
+                           |                   
+
+XOXXXOXXXO
+XXXXXXXXXX
+XOXXXOXXXO
+
+can walk x = 1+3n
+can walk y = 2n
